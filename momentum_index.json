@@ -1,0 +1,17 @@
+{
+  "Kenya": {
+    "score": 78.4,
+    "rank_description": "Top 5 in Sub-Saharan Africa",
+    "top_sectors": ["Fintech", "AgriTech", "HealthTech"]
+  },
+  "Nigeria": {
+    "score": 81.2,
+    "rank_description": "Top 3 overall",
+    "top_sectors": ["Fintech", "E-commerce", "Logistics"]
+  },
+  "Rwanda": {
+    "score": 69.5,
+    "rank_description": "Strong emerging ecosystem",
+    "top_sectors": ["AgriTech", "Clean Energy"]
+  }
+}
